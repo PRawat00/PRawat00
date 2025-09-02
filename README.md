@@ -1,27 +1,27 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Rawat</h1>
-<h3 align="center">I help companies turn data into actionable insights! 🚀 Machine Learning Intern at IRDE, DRDO | Data Scientist Intern at Insignia | Amazon ML Summer School 2022 Alum 🌟 #DataScience #ML</h3>
+<h3 align="center">Data Scientist & AI Engineer specializing in RAG systems, agentic AI, and financial document processing 🚀 Currently at FLX AI & University of Rochester CIRC | Building production AI solutions that solve real-world problems ✨</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prawat00&label=Profile%20views&color=0e75b6&style=flat" alt="prawat00" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PRawat00&label=Profile%20views&color=0e75b6&style=flat" alt="PRawat00" /> </p>
 
-- 🔭 I’m currently working on [-](-)
+- 🔭 I'm currently working on **Building production RAG systems for financial AI at FLX AI and developing HPC-integrated chatbots at University of Rochester CIRC**
 
-- 🌱 I’m currently learning **-**
+- 🌱 I'm currently learning **Advanced agentic AI frameworks, multi-modal RAG architectures, and distributed ML systems**
 
-- 👯 I’m looking to collaborate on [-](-)
+- 👯 I'm looking to collaborate on **RAG systems, agentic AI projects, financial document processing, and enterprise ML solutions**
 
-- 🤝 I’m looking for help with [-](-)
+- 🤝 I'm looking for help with **Scaling vector databases, optimizing LLM inference, and advanced prompt engineering techniques**
 
-- 👨‍💻 All of my projects are available at [-](-)
+- 👨‍💻 All of my projects are available at **[prwt.dev](https://prwt.dev)**
 
-- 📝 I regularly write articles on [-](-)
+- 📝 I regularly write articles on **[Medium](https://medium.com/@prwt) and [my blog](https://prwt.dev/blog)**
 
-- 💬 Ask me about **-**
+- 💬 Ask me about **RAG systems, agentic AI, financial document processing, PyTorch, TensorFlow, vector databases, and computer vision**
 
-- 📫 How to reach me **Priyanshurawatmasters@gmail.com**
+- 📫 How to reach me **prawat3@ur.rochester.edu**
 
-- 📄 Know about my experiences [-](-)
+- 📄 Know about my experiences **[Resume/CV](https://prwt.dev) and [LinkedIn](https://linkedin.com/in/prwt)**
 
-- ⚡ Fun fact **-**
+- ⚡ Fun fact **My FinRAG3 system processes SEC filings with 95% accuracy, reducing analysis time from hours to just 5 minutes! 🚀**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -29,9 +29,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/priyanshurwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshurwt" height="30" width="40" /></a>
-<a href="https://medium.com/@prawat00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prawat00" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prawat00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prawat00" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prwt" height="30" width="40" /></a>
+<a href="https://medium.com/@prwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prwt" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/PRawat00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="PRawat00" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
