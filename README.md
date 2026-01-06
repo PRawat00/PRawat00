@@ -17,9 +17,9 @@
 
 - 💬 Ask me about **RAG Systems, LangGraph, Agentic AI, PyTorch, Transformers, Vector Databases (pgvector, ChromaDB, Pinecone), MLOps, Docker, and FastAPI**
 
-- 📫 How to reach me **prawat3@ur.rochester.edu**
+- 📫 How to reach me **prwt1507@gmail.com**
 
-- 📄 Know about my experiences **[Resume/CV](https://prwt.dev) and [LinkedIn](https://linkedin.com/in/prwt)**
+- 📄 Know about my experiences **[Resume/CV](https://prwt.dev/resume.pdf) and [LinkedIn](https://linkedin.com/in/prwt)**
 
 - ⚡ Fun fact **Built a multi-source RAG system serving 1000+ HPC users and fine-tuned BERT for 85% precision on 200K+ tickets! 🚀**
 
