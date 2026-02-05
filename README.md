@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Rawat</h1>
 <h3 align="center">Data Scientist at University of Rochester CIRC 🚀 Specializing in RAG Systems, Agentic AI, LLMs & MLOps | MS Data Science @ UofR | Building production AI solutions for HPC and enterprise ✨</h3>
 
+<p align="center">
+  <img src="game.gif" alt="Space Shooter Game" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PRawat00&label=Profile%20views&color=0e75b6&style=flat" alt="PRawat00" /> </p>
 
 - 🔭 I'm currently working on **Multi-source RAG systems with LangGraph orchestration for 1000+ HPC users, ML classification models for automated ticket categorization, and CI/CD pipelines with Prometheus/Grafana monitoring**
