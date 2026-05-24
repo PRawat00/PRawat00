@@ -27,11 +27,6 @@
 
 - ⚡ Fun fact **Built a multi-source RAG system serving 1000+ HPC users and fine-tuned BERT for 85% precision on 200K+ tickets! 🚀**
 
-### 🚀 Featured Projects
-
-**CyberIntel Summarizer** - Real-time threat intelligence pipeline ingesting NVD, CISA, and MITRE ATT&CK feeds. LoRA-fine-tuned model with 4-bit quantization achieving 3x throughput improvement. Built with FastAPI, PostgreSQL, and Streamlit.
-
-**Gluten Sensitivity Prediction** *(Capstone with Wegmans)* - XGBoost classification on 5.6M transactions with custom threshold optimization framework, improving precision by 49% for targeted marketing.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
